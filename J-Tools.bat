@@ -1,0 +1,1 @@
+start iexplore -noframemerging -nosessionmerging "%CD%\J-Tools.htm"
