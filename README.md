@@ -14,7 +14,7 @@ Requirements
 
 	Client: 
 		- Windows 7/8
-		- Internet Explorer 11 32-bit with Activex enabled
+		- Internet Explorer 11 32-bit with Activex enabled and upto 1 GB of RAM available to be utilized by J-Tools
 		- Oracle 11g/12c 32-bit ODBC driver
 	Server: 
 		- Oracle 11g/12c Database with Diagnostics Pack enabled
